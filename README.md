@@ -8,7 +8,7 @@ It's a simple personal portfolio website developed by using html,css,bootstrap,j
 * Download the zip file of the code
 * Extract the zip file
 * Copy the folder in xampp > htdocs
-* Import the sql file in  phpmyadmin
+* Import the **hawkeye-portfolio.sql** file in  phpmyadmin
 
 That's it, now you can run the project
 
