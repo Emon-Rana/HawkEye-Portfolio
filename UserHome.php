@@ -103,7 +103,7 @@
 									</ul>
 								</li>
 							</ul>
-							<button class="cv" onclick="window.location.href='download.php?file=resume'" >Download CV   <i class=" cvicon fas fa-file-word"></i></button>
+							<button class="cv" onclick="window.location.href='download.php?file=Md. Emon Rana.pdf'" >Download CV   <i class=" cvicon fas fa-file-word"></i></button>
 						</div>
 						<div class="col-md-5 header-left">
 							<button class="edit" data-toggle="modal" data-target="#editsec" ><i class="fas fa-user-edit"></i> Edit</button>

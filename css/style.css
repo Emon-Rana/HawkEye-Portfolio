@@ -3193,7 +3193,34 @@ ul.social-icons.two {
 }
 
 @media(max-width:375px){
-	
+
+	.edit{
+		margin: 1em 0em 2em 0em;
+		float: right;
+		margin-top: -33em;
+		background: #333;
+		width: 5em;
+		text-align: center;
+		border: 1px solid;
+		cursor: pointer;
+		color: #fff;
+		box-shadow: 0px 1px 5px 2px #bfceef;
+		z-index: 10;
+		border-radius: 4px;
+		cursor: pointer;
+		transition: 0.2s;
+	}
+
+	.about-left {
+		padding: 1em 0 1em 0;
+		/*margin-bottom: -15em;*/
+	}
+
+	.about-right {
+		float: none;
+		/**min-height: 240px;**/
+	}
+
 	.banner-info {
 		margin-top: 1.2em;
 	}

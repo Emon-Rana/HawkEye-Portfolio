@@ -88,7 +88,7 @@ include ('server.php'); ?>
 								</li>
 							</ul>
 							<!--<button class="cv" onclick="window.location.href='download.php?file=resume'" >Download CV   <i class=" cvicon fas fa-file-word"></i></button>-->
-							<button class="cv" onclick="window.location.href='download.php?file=resume.pdf'" >Download CV   <i class=" cvicon fas fa-file-word"></i></button>
+							<button class="cv" onclick="window.location.href='download.php?file=Md. Emon Rana.pdf'" >Download CV   <i class=" cvicon fas fa-file-word"></i></button>
 						</div>
 						<div class="col-md-5 header-left">
 							<!--<div class="errormsg">
@@ -268,7 +268,7 @@ include ('server.php'); ?>
 							</script>-->
 						
 						
-							<img src="images/snowden2.jpg" alt="image" />
+							<img src="images/emon.jpeg" alt="image" />
 						</div>
 						<div class="clearfix"> </div>
 					</div><!--End of banner-info-->
